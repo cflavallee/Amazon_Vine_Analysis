@@ -27,3 +27,5 @@ CREATE TABLE vine_table (
   vine TEXT,
   verified_purchase TEXT
 );
+
+select * from vine_table limit 5;
