@@ -3,7 +3,7 @@
 
 ## Overview
 
-The purpose of this analysis was to determine if paid vine reviews show a bias compared to non-vine reviews.  This was done using PySpark along with an Amazon Reviews dataset.  I used the dataset for Lawn & Garden reviews.  Below are the highlights of the analysis, along with a conclusion based on the results.
+The purpose of this analysis was to determine if paid Vine Reviews presented a bias compared to Non-Vine reviews.  This was done using PySpark along with an Amazon Reviews dataset.  The dataset for Lawn & Garden reviews was used.  Below are the highlights and images of the analysis, along with a conclusion based on the results.
 
 ## Results
 ### Total Vine Reviews
